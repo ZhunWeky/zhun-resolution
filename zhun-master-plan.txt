@@ -7,3 +7,5 @@ Master Plan
 New Lesson
 -git
 -laravel
+-Javascript
+-Python
