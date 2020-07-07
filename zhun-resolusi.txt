@@ -3,3 +3,4 @@ Zhun Resolution
 - Creating platform for video management
 - i want to make some project tracker
 - Creating a vlog
+- Study New Lesson
