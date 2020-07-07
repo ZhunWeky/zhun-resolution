@@ -8,4 +8,6 @@ New Lesson
 -git
 -laravel
 -Javascript
+  -Frameworks VueJS
+  -Angular JS
 -Python
